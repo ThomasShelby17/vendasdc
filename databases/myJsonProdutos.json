@@ -1,0 +1,35 @@
+{
+    "1": {
+        "idproduto": "1",
+        "imagem": "https://cdn.discordapp.com/attachments/1109637133888671795/1136042853638881320/BannerPrincipal.png",
+        "color": "2f3136",
+        "nome": "Sem nome ainda...",
+        "cup": "false",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A",
+            "A",
+            "AA",
+            "A",
+            "A",
+            "A",
+            "AA",
+            "A"
+        ]
+    },
+    "ttt": {
+        "idproduto": "ttt",
+        "imagem": "https://media.discordapp.net/attachments/1141404732175417424/1141497733123936298/standard_2.gif",
+        "color": "#2f3136",
+        "nome": "Sem nome ainda...",
+        "cup": "false",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    }
+}

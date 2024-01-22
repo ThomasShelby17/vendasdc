@@ -1,0 +1,6 @@
+{
+    "descricao": "```\n#{desc}```\n**<a:planeta:1141397827617050624> | Nome: __#{nome}__**\n**<:Dinheiro:1141014757978148894> | Preço: __R$#{preco}__**\n**<:Caixa:1141013432510992444> | Estoque: __#{estoque}__**",
+   "botao": "Adicionar ao Carrinho",
+   "titulo": "#{nome}・Produtos",
+   "rodape": "GOLD7 SYSTEM Todos os direitos reservados"
+}
